@@ -1,0 +1,6 @@
+export class CreateScenarioDto {
+  
+    title:string;
+    description: string;
+    //option: Option[];
+}
